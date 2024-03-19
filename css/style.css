@@ -169,3 +169,41 @@
     background-color: blue;
     color: white;
 }
+
+.join-team{
+    color:black;
+    background-color: white;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 14px;
+}
+
+.wanted-positions{
+    background-color: silver;
+    color: black;
+    font-size: 14px;
+}
+
+.wanted-positions #pos-header{
+    padding-bottom: 20px;
+}
+
+.wanted-positions .positions{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.wanted-positions .positions ol ul{
+    list-style-type: none;
+}
+
+.wanted-positions .requirements ul li{
+    list-style-type: none;
+}
+
+.send-resume{
+    background-color: white;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
